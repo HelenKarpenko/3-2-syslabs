@@ -1,0 +1,2 @@
+Program started
+Forked child process with ID 5514

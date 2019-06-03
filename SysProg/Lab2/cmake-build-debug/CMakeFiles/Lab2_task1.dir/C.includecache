@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kate/CLionProjects/SysProg/Lab2/task1/main.c
+stdio.h
+-
+unistd.h
+-
+string.h
+-
+errno.h
+-
+sys/wait.h
+-
+

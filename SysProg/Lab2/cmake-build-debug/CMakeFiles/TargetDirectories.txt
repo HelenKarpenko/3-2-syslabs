@@ -1,0 +1,4 @@
+/Users/kate/CLionProjects/SysProg/Lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kate/CLionProjects/SysProg/Lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kate/CLionProjects/SysProg/Lab2/cmake-build-debug/CMakeFiles/Lab2_task2.dir
+/Users/kate/CLionProjects/SysProg/Lab2/cmake-build-debug/CMakeFiles/Lab2_task1.dir
